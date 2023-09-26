@@ -1,4 +1,4 @@
-# Roblox Vault of each script i've made for games.
+# Roblox Vault of each script i've made for games. More will be added soon as I find more games to play
 
 ## Some are obfuscated for skid protection and game developer protection
 
