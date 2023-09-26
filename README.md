@@ -1,6 +1,6 @@
-# Roblox Vault of each script i've made for games. More will be added soon as I find more games to play
+# Roblox Vault of each script i've made for games.
 
-## Some are obfuscated for skid protection and game developer protection
+## Some are obfuscated for skid protection and game developer protection;More will be added soon as I find more games to play
 
 - [Gods Will](https://github.com/Aegians/Gods-Will)
 - [Blade Ball](https://github.com/Aegians/Bladez)
