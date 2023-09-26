@@ -48,7 +48,8 @@ Includes:
 - Spam Parry
 - Auto GG
 - Auto Response
-- 
+- Collect all skins
+- More to be added, majority of it is just a test build
 
 
 # Fire Force
