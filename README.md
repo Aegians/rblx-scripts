@@ -14,7 +14,7 @@
 - [Fire Force Online](https://www.roblox.com/games/7390824960/ADOLLA-UPDATE-Fire-Force-Online)
 
 
-# FEATURES
+# Features
  ```markdown
 # Gods Will
 Includes:
