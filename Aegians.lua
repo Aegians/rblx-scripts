@@ -62,4 +62,5 @@ local MainScriptwithAimball = Main:CreateButton({
     Name = "Universal Aimbot",
     Callback = function()
         loadstring(game:HttpGet("https://raw.githubusercontent.com/Aegians/AxisHub/main/AxisHub.lua", true))()
- end
+ end,
+    })
